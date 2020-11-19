@@ -17,3 +17,19 @@ p≡p is easy for your recipients too – depending on their security capabiliti
 With p≡p, you don’t need a separate account, you can send secure messages to anyone anywhere, regardless of their email provider.
 
 Just install the app and you can communicate in confidence with your peers.
+
+in rom folder
+
+cd prebuilts/prebuiltapks
+
+git clone https://github.com/teamorchidos/pep
+
+then
+
+cd
+
+cd romfolder/vendor/rom/config      (example.. cd lineage/vendor/lineage/config)
+nano common.mk
+
+add to CUSTOM_PACKAGES 
+
